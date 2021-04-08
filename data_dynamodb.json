@@ -1,0 +1,86 @@
+{
+  "deliveryTime": {
+    "N": "25"
+  },
+  "freeDelivery": {
+    "BOOL": true
+  },
+  "id": {
+    "S": "f71400ed-26b1-43d0-940c-7cabd3546dc6"
+  },
+  "meal": {
+    "SS": ["dinner", "lunch"]
+  },
+  "menu": {
+    "L": [
+      {
+        "M": {
+          "addOns": {
+            "SS": [
+              "Extra Cheese",
+              "Green Pepper",
+              "Mushrooms",
+              "None",
+              "Onion",
+              "Pepperoni",
+              "Sausage",
+              "Tomatoes"
+            ]
+          },
+          "description": {
+            "S": "Design your own pizza"
+          },
+          "id": {
+            "S": "7644eba9-d6a8-466f-bd49-781bc005cfe5"
+          },
+          "img": {
+            "S": "pizza-plain.jpg"
+          },
+          "item": {
+            "S": "Build Your Own"
+          },
+          "price": {
+            "N": "17.99"
+          }
+        }
+      },
+      {
+        "M": {
+          "addOns": {
+            "SS": [
+              "Extra Cheese",
+              "Green Pepper",
+              "Mushrooms",
+              "None",
+              "Onion",
+              "Pepperoni",
+              "Sausage",
+              "Tomatoes"
+            ]
+          },
+          "description": {
+            "S": "Design your own pizza"
+          },
+          "id": {
+            "S": "7644eba9-d6a8-466f-bd49-781bc005cfe5"
+          },
+          "img": {
+            "S": "pizza-plain.jpg"
+          },
+          "item": {
+            "S": "Build Your Own"
+          },
+          "price": {
+            "N": "17.99"
+          }
+        }
+      }
+    ]
+  },
+  "name": {
+    "S": "Taco bout Eating Tacos"
+  },
+  "rating": {
+    "N": "4.7"
+  }
+}
